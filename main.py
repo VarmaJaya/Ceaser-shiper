@@ -41,7 +41,8 @@ while not should_end:
     print("Goodbye")
     
 
-
+def indra():
+  pass
 
     
 
